@@ -4,4 +4,4 @@ this project contains
 1) python file
 2) question n answer file
 3) ppt
-4) final summary file
+4) Executive summary file
